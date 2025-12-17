@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "No Reset / XIDEN【Official MV】",
+  "base_artist": "XIDEN",
+  "createdAt": "2025-12-17T07:31:29.921243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Reset",
+      "artist": "XIDEN",
+      "has_synced": false,
+      "path": "select/pl_01_No_Reset_XIDEN.txt"
+    }
+  ]
+}
